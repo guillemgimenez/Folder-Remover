@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Folder Remover
+Comment=Elimina carpetas descomprimidas que ya existen como comprimido
+Exec=folder-remover
+Icon=user-trash
+Terminal=false
+Categories=Utility;FileTools;

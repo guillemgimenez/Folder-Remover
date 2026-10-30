@@ -25,6 +25,7 @@ Supported archives: `.zip`, `.rar`, `.7z`, `.tar`, `.tar.gz`, `.tgz`, `.tar.bz2`
 
 - With Python 3.9+: double-click `ejecutar.bat` (installs dependencies and starts the app).
 - For a standalone `.exe` (no Python needed): double-click `compilar.bat` → `dist\Limpiador.exe`.
+- **Debian / Ubuntu / Mint:** `sh debian/build-deb.sh`, then `sudo apt install ./dist/folder-remover_1.0.0_all.deb`. Launch it from the app menu or with `folder-remover`.
 
 ## License
 

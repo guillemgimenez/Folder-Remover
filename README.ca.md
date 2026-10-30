@@ -25,6 +25,7 @@ Comprimits admesos: `.zip`, `.rar`, `.7z`, `.tar`, `.tar.gz`, `.tgz`, `.tar.bz2`
 
 - Amb Python 3.9+: doble clic a `ejecutar.bat` (instal·la les dependències i inicia el programa).
 - Per a un `.exe` independent (sense Python): doble clic a `compilar.bat` → `dist\Limpiador.exe`.
+- **Debian / Ubuntu / Mint:** `sh debian/build-deb.sh` i després `sudo apt install ./dist/folder-remover_1.0.0_all.deb`. S'obre des del menú d'aplicacions o amb `folder-remover`.
 
 ## Llicència
 
